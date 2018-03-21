@@ -10,6 +10,7 @@ export const config = {
 
 // Mail Wesport
 export const mailConfig = {
-  mail: 'mettreUneAdresseMail.com',
+  mail: 'mettreUneAdresseMail.com', /* Test hackathon */
   password: 'mdr',
 };
+
