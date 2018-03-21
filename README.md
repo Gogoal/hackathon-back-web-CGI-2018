@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SOCLE NODE.JS ET MONGODB - REST API
 ## Technologies
 * NodeJS
@@ -20,3 +21,6 @@
 https://mlab.com/home
 * Lancer la commande :
 * mongo ds117935.mlab.com:17935/wesport -u <dbuser> -p <dbpassword>
+=======
+# hackathon-back-web-CGI-2018
+>>>>>>> 8e6122c5ea169400e05e8ad4b0696a1db0f3342b
