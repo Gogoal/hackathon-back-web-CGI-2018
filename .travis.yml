@@ -1,0 +1,19 @@
+dist: trusty
+language: node_js
+
+node_js:
+  - "7"
+
+services:
+  - mongodb
+
+cache:
+  yarn: true
+
+script:
+- yarn lint
+- yarn test
+- yarn build
+
+notifications:
+  slack: institutg4-lyon:oa7Dm1lSiivioV89ed5JrSgS
